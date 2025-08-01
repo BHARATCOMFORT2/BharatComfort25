@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Patna - BharatComfort</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<header>
+  <img src="logo.png" alt="BharatComfort Logo" class="logo" />
+  <h1>Hotels & Restaurants in Patna</h1>
+</header>
+
+<main>
+  <div class="listing">
+    <h3>Hotel Maurya (Hotel)</h3>
+    <p>Fraser Road, Patna</p>
+  </div>
+  <div class="listing">
+    <h3>Bansi Vihar (Restaurant)</h3>
+    <p>Kankarbagh, Patna</p>
+  </div>
+</main>
+
+<footer>
+  <p>📞 9277168528 | ✉️ shrrajbhar12340@gmail.com | 💬 WhatsApp: Same number</p>
+</footer>
+
+</body>
+</html>
